@@ -6,11 +6,11 @@ import logging
 
 
 # Set your Telegram bot token
-TOKEN = '6378399473:AAFdPXcAH74uRoSuNXHDI7usEl2SiBNM2to'
+TOKEN = ':'
 # Set your Google Custom Search JSON API key
-API_KEY = 'AIzaSyAFP6Y0FM1SyRLgPE-9nggKmM2B-hQbaLI'
+API_KEY = '--'
 # Set your Engine ID for search
-ENGINE_ID = '97c6bcc4b0ee5414b'
+ENGINE_ID = ''
 
 def start(update: Update, context):
     """Обработчик команды /start"""
